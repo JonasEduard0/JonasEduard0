@@ -1,25 +1,22 @@
-<!-- ===================== HEADER (FULL VIEW / CLEAN HACKER) ===================== -->
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jonas%20Eduardo&fontSize=52&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20at%20IF%20Sudeste%20MG%20%7C%20Front-end%20Learner&descSize=18&descAlign=50&descAlignY=65&animation=twinkling&color=0:0b0f19,50:00ff88,100:0050ff"
   />
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Hello%2C+World!+%F0%9F%91%8B+I%27m+Jonas+Eduardo;Learning%3A+Vue.js+%7C+TypeScript+%7C+Tailwind+CSS;Open+to+collaborate+on+beginner-friendly+projects+%26+open-source"
   />
 </p>
 
-<!-- ===================== CONTACT (CLEAN TEXT, NO UGLY LINKS) ===================== -->
 <p align="center">
   📧 <a href="mailto:jonaseduardo683@gmail.com"><b>jonaseduardo683@gmail.com</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   💼 <a href="https://www.linkedin.com/in/jonas-ecmartins/"><b>LinkedIn</b></a>
 </p>
 
-<!-- ===================== GIF ===================== -->
 <p align="center">
   <img width="520" alt="coding" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 </p>

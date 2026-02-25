@@ -1,6 +1,6 @@
 <!-- ===================== HEADER (ANIMATED) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jonas%20Eduardo&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlign=50&descAlignY=60&animation=twinkling&color=0:0f0c29,50:302b63,100:24243e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jonas%20Eduardo&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=60&animation=twinkling&color=0:0f0c29,50:302b63,100:24243e" />
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->

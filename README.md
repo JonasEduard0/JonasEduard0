@@ -1,27 +1,25 @@
-<!-- HEADER-->
+<!-- ===================== HEADER (FULL VIEW / CLEAN HACKER) ===================== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Jonas%20Eduardo&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Front-end%20Learner%20%7C%20Aspiring%20Full-Stack&descAlign=50&descAlignY=65&animation=twinkling&color=0:0b0f19,50:00ff88,100:0050ff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jonas%20Eduardo&fontSize=52&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20at%20IF%20Sudeste%20MG%20%7C%20Front-end%20Learner&descSize=18&descAlign=50&descAlignY=65&animation=twinkling&color=0:0b0f19,50:00ff88,100:0050ff"
   />
 </p>
 
-<!-- ===================== TYPING ANIMATION (NOT CLICKABLE) ===================== -->
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Hello%2C+World!+%F0%9F%91%8B+I%27m+Jonas+Eduardo;Computer+Science+student+at+IF+Sudeste+MG;Learning%3A+Vue.js+%7C+TypeScript+%7C+Tailwind+CSS;Open+to+collaborate+on+beginner-friendly+projects+%26+open-source"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Hello%2C+World!+%F0%9F%91%8B+I%27m+Jonas+Eduardo;Learning%3A+Vue.js+%7C+TypeScript+%7C+Tailwind+CSS;Open+to+collaborate+on+beginner-friendly+projects+%26+open-source"
   />
 </p>
 
-<!-- ===================== CONTACT (TEXT LINKS ONLY) ===================== -->
+<!-- ===================== CONTACT (CLEAN TEXT, NO UGLY LINKS) ===================== -->
 <p align="center">
-  <b>Contact:</b>
-  <a href="mailto:jonaseduardo683@gmail.com">jonaseduardo683@gmail.com</a>
-  •
-  <b>LinkedIn:</b>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">/in/SEU-LINKEDIN-AQUI</a>
+  📧 <a href="mailto:jonaseduardo683@gmail.com"><b>jonaseduardo683@gmail.com</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/jonas-ecmartins/"><b>LinkedIn</b></a>
 </p>
 
-<!-- ===================== HERO GIF (NOT CLICKABLE) ===================== -->
+<!-- ===================== GIF ===================== -->
 <p align="center">
   <img width="520" alt="coding" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 </p>
@@ -55,8 +53,8 @@ I have worked on projects such as an automatic irrigation system using Arduino (
   <img alt="HTML5"      src="https://img.shields.io/badge/HTML5-0b0f19?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img alt="CSS3"       src="https://img.shields.io/badge/CSS3-0b0f19?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img alt="Vue.js"     src="https://img.shields.io/badge/Vue.js-0b0f19?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img alt="Tailwind"   src="https://img.shields.io/badge/Tailwind_CSS-0b0f19?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b0f19?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img alt="Tailwind"   src="https://img.shields.io/badge/Tailwind_CSS-0b0f19?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
 </p>
 
 ### 🗄️ Databases
@@ -76,17 +74,10 @@ I have worked on projects such as an automatic irrigation system using Arduino (
 
 ---
 
-## 📊 GitHub Stats (Dark / Clean)
+## 🔥 GitHub Streak (Dark)
 
 <p align="center">
-  <img height="165" alt="stats"
-    src="https://github-readme-stats.vercel.app/api?username=JonasEduard0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
-  <img height="165" alt="top-langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasEduard0&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="165" alt="streak"
+  <img height="170" alt="streak"
     src="https://streak-stats.demolab.com?user=JonasEduard0&theme=github-dark&hide_border=true" />
 </p>
 

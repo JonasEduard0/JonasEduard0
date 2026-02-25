@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello, World! 👋 I'm Jonas Eduardo
 
-<!--
-**JonasEduard0/JonasEduard0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about technology from a very young age, which led me to pursue a career in programming and software development.
+I have worked on projects such as an automatic irrigation system using Arduino (C), a physical assessment software for students of a Physical Education college, and an educational game to support high school learning.
 
-Here are some ideas to get you started:
+🔭 Studying Computer Science at IF Sudeste MG
+🌱 Learning Front-end development with Vue.js, TypeScript, TailWind
+👯 I’m looking to collaborate on beginner-friendly projects, open-source initiatives, and learning opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: JavaScript, PHP, C++, Python, Java
+- Web: HTML, CSS
+- Databases: MySQL, Database Design
+- Tools: Git, Arduino
+- Hardware: Assembly and maintenance
+- Spoken Languages: Portuguese (native), English (Upper-Intermediate).

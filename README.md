@@ -1,20 +1,14 @@
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jonas%20Eduardo&fontSize=52&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20at%20IF%20Sudeste%20MG%20%7C%20Front-end%20Learner&descSize=18&descAlign=50&descAlignY=65&animation=twinkling&color=0:0b0f19,50:00ff88,100:0050ff"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jonas%20Eduardo&fontSize=52&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student%20at%20IF%20Sudeste%20MG%20%7C%20Front-end%20Learner&descSize=18&descAlign=50&descAlignY=65&animation=twinkling&color=0:0b0f19,50:00ff88,100:0050ff" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Hello%2C+World!+%F0%9F%91%8B+I%27m+Jonas+Eduardo;Learning%3A+Vue.js+%7C+TypeScript+%7C+Tailwind+CSS;Open+to+collaborate+on+beginner-friendly+projects+%26+open-source"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Hello%2C+World!+%F0%9F%91%8B+I%27m+Jonas+Eduardo;Learning%3A+Vue.js+%7C+TypeScript+%7C+Tailwind+CSS;Open+to+collaborate+on+beginner-friendly+projects+%26+open-source" />
 </p>
 
 <p align="center">
-  📧 <a href="mailto:jonaseduardo683@gmail.com"><b>jonaseduardo683@gmail.com</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  💼 <a href="https://www.linkedin.com/in/jonas-ecmartins/"><b>LinkedIn</b></a>
+  📧 <a href="mailto:jonaseduardo683@gmail.com"> jonaseduardo683@gmail.com </a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/jonas-ecmartins/"> LinkedIn </a>
 </p>
 
 <p align="center">
@@ -68,26 +62,6 @@ I have worked on projects such as an automatic irrigation system using Arduino (
 
 **Hardware:** Assembly and maintenance  
 **Spoken Languages:** Portuguese (native), English (Upper-Intermediate)
-
----
-
-## 🔥 GitHub Streak (Dark)
-
-<p align="center">
-  <img height="170" alt="streak"
-    src="https://streak-stats.demolab.com?user=JonasEduard0&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img alt="snake"
-    src="https://raw.githubusercontent.com/JonasEduard0/JonasEduard0/output/github-contribution-grid-snake.svg" />
-</p>
-
-<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontAlign=50&fontAlignY=55&animation=fadeIn&color=0:0b0f19,100:00ff88"

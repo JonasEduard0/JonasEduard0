@@ -23,7 +23,7 @@ Passionate about technology from a very young age, which led me to pursue a care
 I have worked on projects such as an automatic irrigation system using Arduino (C), a physical assessment software for students of a Physical Education college, and an educational game to support high school learning.
 
 🔭 Studying Computer Science at **IF Sudeste MG**  
-🌱 Learning Front-end development with **Vue.js, TypeScript, Tailwind CSS**  
+🌱 Learning now **Vue.js, TypeScript, NodeJS**  
 👯 I’m looking to collaborate on beginner-friendly projects, open-source initiatives, and learning opportunities  
 
 ---
@@ -43,9 +43,6 @@ I have worked on projects such as an automatic irrigation system using Arduino (
 <p>
   <img alt="HTML5"      src="https://img.shields.io/badge/HTML5-0b0f19?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img alt="CSS3"       src="https://img.shields.io/badge/CSS3-0b0f19?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img alt="Vue.js"     src="https://img.shields.io/badge/Vue.js-0b0f19?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b0f19?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img alt="Tailwind"   src="https://img.shields.io/badge/Tailwind_CSS-0b0f19?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
 </p>
 
 ### 🗄️ Databases

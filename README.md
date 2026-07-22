@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Hello%2C+World!+%F0%9F%91%8B+I%27m+Jonas+Eduardo;Learning%3A+Vue.js+%7C+TypeScript+%7C+Tailwind+CSS;Open+to+collaborate+on+beginner-friendly+projects+%26+open-source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=Hello%2C+World!+%F0%9F%91%8B+I%27m+Jonas+Eduardo;Learning%3A+Vue.js+%7C+TypeScript+%7C+NodeJs;Open+to+collaborate+on+beginner-friendly+projects+%26+open-source" />
 </p>
 
 <p align="center">

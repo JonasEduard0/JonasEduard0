@@ -76,8 +76,6 @@ I have worked on projects such as an automatic irrigation system using Arduino (
 
 <p align="center"> <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonasEduard0&show_icons=true&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonasEduard0&layout=compact&theme=tokyonight"/> </p>
 
-
-
 ---
 
 ## 📈 GitHub Activity
@@ -88,7 +86,7 @@ I have worked on projects such as an automatic irrigation system using Arduino (
 
 ---
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake.svg"> </picture> </div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonasEduard0/JonasEduard0/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonasEduard0/JonasEduard0/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/JonasEduard0/JonasEduard0/output/github-contribution-grid-snake.svg"> </picture> </div>
 
 ---
 

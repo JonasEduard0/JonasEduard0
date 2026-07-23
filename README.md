@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:jonaseduardo683@gmail.com"> jonaseduardo683@gmail.com </a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  💼 <a href="https://www.linkedin.com/in/jonas-ecmartins/"> LinkedIn </a>
+  📧 <a href="mailto:jonaseduardo683@gmail.com">jonaseduardo683@gmail.com</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/jonas-ecmartins/">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -19,18 +20,19 @@
 
 ## Hello, World! 👋 I'm Jonas Eduardo
 
-Passionate about technology from a very young age, which led me to pursue a career in programming and software development.  
+Passionate about technology from a very young age, which led me to pursue a career in programming and software development.
 I have worked on projects such as an automatic irrigation system using Arduino (C), a physical assessment software for students of a Physical Education college, and an educational game to support high school learning.
 
-🔭 Studying Computer Science at **IF Sudeste MG**  
-🌱 Learning now **Vue.js, TypeScript, NodeJS**  
-👯 I’m looking to collaborate on beginner-friendly projects, open-source initiatives, and learning opportunities  
+🔭 Studying Computer Science at **IF Sudeste MG**
+🌱 Learning now **Vue.js, TypeScript, NodeJS**
+👯 I’m looking to collaborate on beginner-friendly projects, open-source initiatives, and learning opportunities
 
 ---
 
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
+
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0b0f19?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img alt="PHP"        src="https://img.shields.io/badge/PHP-0b0f19?style=for-the-badge&logo=php&logoColor=777BB4"/>
@@ -40,27 +42,77 @@ I have worked on projects such as an automatic irrigation system using Arduino (
 </p>
 
 ### 🌐 Web
+
 <p>
-  <img alt="HTML5"      src="https://img.shields.io/badge/HTML5-0b0f19?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img alt="CSS3"       src="https://img.shields.io/badge/CSS3-0b0f19?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0b0f19?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0b0f19?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </p>
 
 ### 🗄️ Databases
+
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0b0f19?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 </p>
 
 ### 🔧 Tools & Hardware
+
 <p>
-  <img alt="Git"     src="https://img.shields.io/badge/Git-0b0f19?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img alt="GitHub"  src="https://img.shields.io/badge/GitHub-0b0f19?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-0b0f19?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0b0f19?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-0b0f19?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0b0f19?style=for-the-badge&logo=trello&logoColor=0079BF"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-0b0f19?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img alt="Apache NetBeans" src="https://img.shields.io/badge/Apache%20NetBeans-0b0f19?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1B6AC6"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-0b0f19?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0b0f19?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
 </p>
 
-**Hardware:** Assembly and maintenance  
+**Hardware:** Assembly and maintenance
 **Spoken Languages:** Portuguese (native), English (Upper-Intermediate)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasEduard0&show_icons=true&theme=dark&bg_color=0b0f19&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasEduard0&layout=compact&theme=dark&bg_color=0b0f19&title_color=00ff88&text_color=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasEduard0&theme=dark&background=0b0f19&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasEduard0&bg_color=0b0f19&color=ffffff&line=00ff88&point=00ff88&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact & Social Media
+
+<p align="center">
+  <a href="https://github.com/JonasEduard0">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0b0f19?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-0b0f19?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jonas-ecmartins/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:jonaseduardo683@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0b0f19?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontAlign=50&fontAlignY=55&animation=fadeIn&color=0:0b0f19,100:00ff88"
-  />
+    src="https://capsule-render.vercel.app/api?type=rect&height=90&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontAlign=50&fontAlignY=55&animation=fadeIn&color=0:0b0f19,100:00ff88"/>
 </p>

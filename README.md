@@ -74,14 +74,9 @@ I have worked on projects such as an automatic irrigation system using Arduino (
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasEduard0&show_icons=true&theme=dark&bg_color=0b0f19&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasEduard0&layout=compact&theme=dark&bg_color=0b0f19&title_color=00ff88&text_color=ffffff&hide_border=true" />
-</p>
+<p align="center"> <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonasEduard0&show_icons=true&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonasEduard0&layout=compact&theme=tokyonight"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasEduard0&theme=dark&background=0b0f19&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasEduard0&theme=tokyonight" /> </p>
 
 ---
 
@@ -90,6 +85,10 @@ I have worked on projects such as an automatic irrigation system using Arduino (
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasEduard0&bg_color=0b0f19&color=ffffff&line=00ff88&point=00ff88&area=true&hide_border=true" />
 </p>
+
+---
+
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake.svg"> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake.svg"> </picture> </div>
 
 ---
 

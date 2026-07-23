@@ -92,7 +92,7 @@ I have worked on projects such as an automatic irrigation system using Arduino (
   <a href="https://github.com/JonasEduard0">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0b0f19?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/jonaseduardo72/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-0b0f19?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
   <a href="https://www.linkedin.com/in/jonas-ecmartins/">

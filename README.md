@@ -74,7 +74,12 @@ I have worked on projects such as an automatic irrigation system using Arduino (
 
 ## 📊 GitHub Statistics
 
-<p align="center"> <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonasEduard0&show_icons=true&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonasEduard0&layout=compact&theme=tokyonight"/> </p>
+<p align="center">
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api?username=JonasEduard0&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasEduard0&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonasEduard0&bg_color=0b0f19&color=ffffff&line=00ff88&point=00ff88&area=true&hide_border=true" />
